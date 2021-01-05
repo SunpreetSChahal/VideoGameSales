@@ -1,6 +1,13 @@
 ## Video Game Sales Analysis
 
-Within this notebook I analysed data regarding videogame sales spanning over various platforms, years, regions and more. 
+Within this notebook I analysed data regarding videogame sales.
+
+The dataset contains video game sales: 
+- within various regions (NA, EU, JP etc.)
+- on various platforms (PS4, PC, PS2 etc.)
+- different genres (Adventure, RPGs, Strategy etc.)\
+...and more. 
+
 I aimed to present:
 - the most popular platforms and fluctuation of games sales over the years.
 - the most popular genres per region.
