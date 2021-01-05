@@ -9,7 +9,8 @@ The dataset contains video game sales:
 ...and more. 
 
 I aimed to present:
-- the most popular platforms and fluctuation of games sales over the years.
+- the most popular platforms
+- fluctuation of games sales over the years.
 - the most popular genres per region.
 - the most popular games per region.
 
